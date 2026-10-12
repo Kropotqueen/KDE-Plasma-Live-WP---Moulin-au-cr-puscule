@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="SpeedMill" type="Double"><default>1.0</default></entry>
+    <entry name="SpeedClouds" type="Double"><default>1.0</default></entry>
+    <entry name="SpeedBirds" type="Double"><default>1.0</default></entry>
+    <entry name="SpeedWheat" type="Double"><default>1.0</default></entry>
+    <entry name="SpeedCable" type="Double"><default>1.0</default></entry>
+    <entry name="SpeedWind" type="Double"><default>1.0</default></entry>
+    <entry name="PauseWhenCovered" type="Bool"><default>true</default></entry>
+    <entry name="MaxFps" type="Int"><default>0</default></entry>
+  </group>
+</kcfg>

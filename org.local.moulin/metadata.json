@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [{ "Name": "Anna" }],
+        "Description": "Moulin au crépuscule : pales qui tournent, nuages par plans, herbe dans le vent (QML vectoriel)",
+        "Icon": "preferences-desktop-wallpaper",
+        "Id": "org.local.moulin",
+        "License": "GPL-3.0+",
+        "Name": "Moulin au crépuscule",
+        "Version": "1.3"
+    },
+    "KPackageStructure": "Plasma/Wallpaper",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
